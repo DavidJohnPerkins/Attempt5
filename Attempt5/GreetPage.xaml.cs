@@ -12,6 +12,8 @@ namespace Attempt5
             InitializeComponent();
 
             slider.Value = 0.5;
+
+
         }
     }
 }
