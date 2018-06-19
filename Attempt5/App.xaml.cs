@@ -11,7 +11,7 @@ namespace Attempt5
         {
             InitializeComponent();
 
-            MainPage = new GreetPage();
+            MainPage = new StackPage();
         }
 
         protected override void OnStart()
